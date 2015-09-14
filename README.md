@@ -8,4 +8,5 @@ There are a lot of people using the same password for many websites. Even though
 
 - mysql: the python script will access mysql DB saved in the server. Therefore, mysql should be installed and initial settings should be done. The 'initial settings' that the user should do manually are as follows:
   - create mysql account. remember the username and password. you will insert it into the python script later
-  - 
+  - create DB and table.
+  - the table should 
